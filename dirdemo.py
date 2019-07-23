@@ -1,6 +1,6 @@
 import os
 root_path=r"C:\Users\arpit.kumar\Desktop\backup1"
-folder=[11,22,33,44]
+folder=[11,22,33,44,55,66]
 gh=folder
 
 print(gh)
